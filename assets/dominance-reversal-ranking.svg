@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 162" width="400" height="162">
+  <g fill="none" stroke="#784b3e" stroke-width="1.4">
+    <path d="M94 35 200 70 306 35M200 103v25"/>
+  </g>
+  <g fill="#55424f" font-family="Georgia, serif" font-size="20" text-anchor="middle">
+    <text x="94" y="26">Blocker</text>
+    <text x="306" y="26">Harmony-Driver</text>
+    <text x="200" y="94">Ident-Trigger</text>
+    <text x="200" y="152">Ident-Target</text>
+  </g>
+</svg>
