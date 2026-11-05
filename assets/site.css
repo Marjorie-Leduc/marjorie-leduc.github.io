@@ -120,7 +120,11 @@ h1 {
   border: 1px solid var(--rule);
   background: var(--wash);
 }
-.portrait img { display: block; width: 100%; height: auto; }
+.portrait-crop {
+  aspect-ratio: 160 / 201;
+  overflow: hidden;
+}
+.portrait-crop img { display: block; width: 146%; height: auto; }
 
 .eyebrow {
   color: var(--copper);
